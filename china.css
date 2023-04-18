@@ -1,0 +1,46 @@
+
+
+  /* this my pure css and is the css used to create the shapes sizes and places / margins */
+
+body {
+    font-family: "Averia Libre", cursive;
+    color: rgb(255, 255, 255);
+    background-color: white;
+    line-height: 20px;
+  }
+  p {
+    font-family: "Averia Libre", cursive;
+    color: rgb(255, 255, 255);
+  }
+  h2,
+  h3 {
+    font-family: "Rubik Mono One", cursive;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+  }
+  h1 {
+    font-size: 50px;
+    font-family: "Rubik Mono One", cursive;
+    color: rgb(255, 255, 255);
+    line-height: 10px;
+  }
+  
+  .title {
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(255, 0, 0);
+  }
+  .ingredients {
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(223, 235, 1);
+  }
+  
+  .instructions {
+    padding: 20px;
+    margin: 30px;
+    line-height: 40px;
+    background-color: rgb(182, 4, 4);
+  }
+  
+  /* end of css */
